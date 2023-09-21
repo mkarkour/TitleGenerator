@@ -3,7 +3,7 @@ from art import *
 def generate_3d_comment_title(title):
     border_length = 80
     if len(title) > border_length - 6:
-        raise ValueError("La longueur du titre dépasse la longueur maximale autorisée")
+        raise ValueError("The length of the title exceeds the maximum authorised length")
     side_length = (border_length - len(title) - 8) // 2  
     border_top = "#" * border_length
     title_line = f"###{'-' * side_length}   {title}   {'-' * side_length}###"  
@@ -30,8 +30,8 @@ def generate_title_art_block(word):
 
 
 def main():
-    word = input("Le mot : ")
-    type_title = int(input("Le type de titre : "))
+    word = input("The word : ")
+    type_title = int(input("The type of title : "))
     dico = {
         1: generate_3d_comment_title,
         2: generate_art_single,
