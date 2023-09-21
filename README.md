@@ -21,37 +21,7 @@ The script offers three types of 3D titles or ASCII art:
 2. Simple ASCII Art: Generates simple ASCII art based on the given word or phrase.
 3. ASCII Art Block Title: Generates an ASCII art title with a block-style font.
 
-## Example Usage
 
-1. To generate a 3D title with the word "Hello", you can run the script and choose option 1. This result will be displayed in the console :
-##################################################
-###------------------ Hello -------------------###
-##################################################
-
-
-2. To generate simple ASCII art from the word "Hello", choose option 2. This result will be displayed in the console :
-# _   _        _  _        
-#| | | |  ___ | || |  ___  
-#| |_| | / _ \| || | / _ \ 
-#|  _  ||  __/| || || (_) |
-#|_| |_| \___||_||_| \___/ 
-#
-#
-
-3. To generate complex ASCII art from the word "Hello", choose option 3. This result will be displayed in the console :
-#
-# .----------------.  .----------------.  .----------------.  .----------------.  .----------------. 
-#| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
-#| |  ____  ____  | || |  _________   | || |   _____      | || |   _____      | || |     ____     | |
-#| | |_   ||   _| | || | |_   ___  |  | || |  |_   _|     | || |  |_   _|     | || |   .'    `.   | |
-#| |   | |__| |   | || |   | |_  \_|  | || |    | |       | || |    | |       | || |  /  .--.  \  | |
-#| |   |  __  |   | || |   |  _|  _   | || |    | |   _   | || |    | |   _   | || |  | |    | |  | |
-#| |  _| |  | |_  | || |  _| |___/ |  | || |   _| |__/ |  | || |   _| |__/ |  | || |  \  `--'  /  | |
-#| | |____||____| | || | |_________|  | || |  |________|  | || |  |________|  | || |   `.____.'   | |
-#| |              | || |              | || |              | || |              | || |              | |
-#| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
-# '----------------'  '----------------'  '----------------'  '----------------'  '----------------'
-#
 
 
 Feel free to modify and use this script for your ASCII art and 3D title generation needs.
